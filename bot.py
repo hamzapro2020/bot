@@ -16,7 +16,7 @@ from telegram.ext import (
 )
 
 # إعدادات البوت
-TOKEN = os.getenv("TOKEN")
+TOKEN = "7710008981:AAGKwLOb7BKi2ToI3D5faEXJxaLpcPxYn5g"
 ADMINS = [8145101051]
 USERS_FILE = "data/users.json"
 STATE_FILE = "data/stream_state.json"
